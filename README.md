@@ -1,2 +1,2 @@
 # Machine-Learning
-Machine Learning Problems from Coursera Certification
+These Machine Learning Problems were solved as part of Coursera Machine Learning Foundations Certification
